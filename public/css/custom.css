@@ -1,0 +1,45 @@
+
+
+.container{
+    /*background-color: #D7ECCF;*/
+}
+
+.navbar{
+    margin-top: 20px;
+}
+.navbar-btn {
+    padding: 10px 30px 10px 30px;
+    margin: 20px 0px 20px 5px;
+}
+.navbar-right{
+    margin-right: 0;
+}
+.navbar-brand{
+    margin: 15px 0 0 0;
+}
+.navbar-toggle{
+    margin-top: 15px;
+}
+
+.thumbnail{
+    box-shadow: 4px 1px 20px #EAE9E9;
+}
+
+.carousel{
+    box-shadow: 4px 8px 20px #888888;
+}
+
+.shadow{
+    box-shadow: 4px 8px 20px #E2E2E2;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+    max-height: 300px;
+}
+
+.content{
+    margin-top: 20px;
+}
